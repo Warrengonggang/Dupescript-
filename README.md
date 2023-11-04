@@ -1,0 +1,2 @@
+# Dupescript-
+PSXSCRIPT
